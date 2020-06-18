@@ -1,5 +1,9 @@
 # Footsies
 
+Shiheuan: I'm going to find out how this work so cool👓.
+
+---
+
 FOOTSIES is a 2D fighting game where players can control character movement horizontally 
 and use one attack button to perform normal and special moves to defeat their opponent.
 While the controls (and graphics) are super simple, 
